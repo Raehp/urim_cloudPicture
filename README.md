@@ -1,3 +1,2 @@
 因前期主包刚开始写此项目的时候 是先后端分仓库提交的 所以现在又想着合并一下会方便观看一点 所以就新建了一个前后端合并的仓库 
 前后端项目的合并版 如果想看详细版请看 cloud_picture_backend后端仓库 和 cloudPictureVue前端仓库
-![Uploading image.png…]()
